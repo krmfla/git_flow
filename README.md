@@ -2,5 +2,5 @@
 for git flow test
 
 AAA
-:P:P:P
+XDXDXDXD
 CCC
