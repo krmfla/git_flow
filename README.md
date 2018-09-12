@@ -2,3 +2,4 @@
 for git flow test
 
 AAA
+BBB
